@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "docs:dev": "pnpm --filter docs dev",
+    "docs:build": "pnpm --filter docs build",
+    "docs:serve": "pnpm --filter docs serve"
+  },
+  "devDependencies": {
+    "vue": "2"
+  }
+}
